@@ -31,10 +31,6 @@ The Glider was first simulated in SIMULINK along with the various forces that wo
 
 A syringe-based buoyancy engine was selected for its effectiveness in state-of-the-art underwater gliders. Key constraints included size, strength, and availability. The design met these constraints, ensuring the glider's functionality at the target depth of 100 meters.
 
-#### Battery Module
-
-NiMH batteries were chosen over Li-ion due to supplier limitations and safety regulations. Although Li-ion offers superior qualities, NiMH batteries provided a feasible alternative within the project's constraints.
-
 
 ### Control System Overview
 The glider was controlled using an arduino uno. With the Depth Conditions being monitored by both a timer and an Ultrasonic Sensor
