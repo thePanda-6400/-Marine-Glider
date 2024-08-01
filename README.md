@@ -1,6 +1,6 @@
 # Autonomous Underwater Glider Drone for Environmental Monitoring of Lakes
 
-**Authors**: Sophie Caplan, William Droin, Rohith Raghunathan Nair, Doran Moison, Dhruv Pandit, Arushi Khokhar  
+**Project carried out during the course of a Robotics MSc at King's College London**   
 
 ## Product Brief
 
