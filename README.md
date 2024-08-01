@@ -37,6 +37,7 @@ The glider was controlled using an arduino uno. With the Depth Conditions being 
 
 
 ### Electronic System Overview
+An Arduino Uno was used to control the glider. I2C was used to communicate with the BMX055 IMU used to monitor the pitch angle and UART was used to communicate with the PING2 SONAR.
 
 ![Circuit](https://github.com/user-attachments/assets/c7c3eb1f-6083-46e9-ab1f-fe229bf79518)
 
