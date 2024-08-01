@@ -25,6 +25,7 @@ Our mission is to revolutionize lake health monitoring through the development o
 
 
 ### Technical Analyses
+The Glider was first simulated in SIMULINK along with the various forces that would act on it. The final diagram is shown below. It was then used to design a PID controller to control the pitch angle of the glider 
 ![simulink](https://github.com/user-attachments/assets/f0a9834c-b10e-4f4f-9ba3-5405282cd520)
 #### Buoyancy Engine
 
